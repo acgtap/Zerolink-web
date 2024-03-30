@@ -42,7 +42,7 @@ export default defineConfig({
 
     footer: {
       message: 'with Katomegumi by ❤️‍🔥',
-      copyright: 'Copyright © 2018-present CnGame.wiki',
+      copyright: 'Copyright © 2023-present CnGame.wiki',
     },
 
     darkModeSwitchLabel: '外观',
