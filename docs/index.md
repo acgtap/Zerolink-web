@@ -18,7 +18,7 @@ hero:
 features:
   - icon: 🎮
     title: 联机游戏
-    details: 与朋友远程虚拟局域网游戏，适配大量P2P联机游戏<br/>不再为小伙伴不会而烦恼
+    details: 与朋友远程虚拟局域网游戏，适配大量P2P联机游戏<br/>不再为小伙伴不会而烦恼了
     link: /nav
     linkText: 如何联机
   - icon: 💡
@@ -27,8 +27,8 @@ features:
     link: /nav
     linkText: 视频教程
   - icon: 📖
-    title: 快速启动
-    details: 从任何地方访问您的计算机、NAS、家庭自动化、IP 摄像机、业余无线电或其他设备<br/>方便地共享文件和数据，设备组网必备！
+    title: 更新日志
+    details: 支持多元化游戏，显示网络延迟，聊天社交系统，快速启动游戏，快捷组队等功能，点击可查看详情更新日志
     link: /nav
     linkText: 快速开始
   - icon: 🧰
