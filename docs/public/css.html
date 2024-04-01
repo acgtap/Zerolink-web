@@ -1,0 +1,20 @@
+<div style="width: 100%; font-size: 35px; text-align: center">
+  <img
+    style="width: 100%"
+    src="https://img.katomegumi.net/file/3c122be41acd6c80d2e09.png"
+    onclick="openu()"
+  />
+</div>
+<script>
+  // 这段脚本将在iframe中执行
+  // 获取父页面的window对象
+
+  function openu() {
+    console.log('openu')
+    var parentWindow = window.parent
+    // 获取父页面的URL
+    var parentUrl = parentWindow.roomid
+    console.log('P' + parentUrl) // 输出父页面的URL
+    window.open('yyds://room/' + parentUrl)
+  }
+</script>
