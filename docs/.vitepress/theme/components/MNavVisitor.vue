@@ -6,7 +6,6 @@ const DEV = inject('DEV') as Ref<boolean>
 
 <template>
   <img
-    v-if="!DEV"
     class="visitor"
     src="https://counter.katomegumi.net/get/@yyjsq"
     onerror="this.style.display='none'"

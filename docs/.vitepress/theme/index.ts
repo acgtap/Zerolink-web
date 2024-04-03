@@ -51,9 +51,10 @@ export default {
        * https://vitepress.dev/guide/extending-default-theme#layout-slots
        * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/Layout.vue
        */
-      'nav-bar-title-after': () => h(MNavVisitor),
+      // 'nav-bar-title-after': () => h(MNavVisitor),
       'doc-after': () => h(MDocFooter),
-      'aside-bottom': () => h(MAsideSponsors)
+      // 'aside-bottom': () => h(MAsideSponsors),
+      'layout-bottom': () => h('img', { src: 'https://counter.katomegumi.net/get/@yyjsq',style:'width:300px;margin:auto;margin-bottom:40px;display:block;' })
     })
   },
   enhanceApp({ app, router }: EnhanceAppContext) {

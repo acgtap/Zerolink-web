@@ -10,13 +10,12 @@ const pageId = computed(() => route.path.replace('/mm-notes', ''))
 
 <template>
   <div class="copyright">
-    <img
-      v-if="!DEV"
+    <!-- <img
       class="visitor"
-      :src="`https://counter.katomegumi.net/get/@yyjsq_${pageId}`"
+      :src="`https://counter.katomegumi.net/get/@yyjsq`"
       title="当前页面累计访问数"
       onerror="this.style.display='none'"
-    />
+    /> -->
     <!-- Copyright © 2019-present maomao -->
   </div>
 </template>

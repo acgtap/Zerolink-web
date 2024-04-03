@@ -1,8 +1,8 @@
 ---
 description: 收录了我们支持的一些游戏联机教程
-layoutClass: m-nav-layout
 outline: [2, 3, 4]
 ---
+
 <script setup>
 import { NAV_DATA } from './nav/data'
 </script>
