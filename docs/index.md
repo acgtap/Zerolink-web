@@ -13,7 +13,7 @@ hero:
     - text: 马上下载
       link: https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb#
     - text: 使用手册
-      link: /nav
+      link: /q/index
       theme: alt
 features:
   - icon: 🎮
@@ -24,12 +24,12 @@ features:
   - icon: 💡
     title: 使用教程
     details: 只需一分钟下载安装进入同一房间即可开始与你的朋友远程虚拟局域网联机！<br/>无需繁琐配置！
-    link: /nav
+    link: https://www.bilibili.com/video/BV1BC411V7pt
     linkText: 视频教程
   - icon: 📖
     title: 更新日志
     details: 支持多元化游戏，显示网络延迟，聊天社交系统，快速启动游戏，快捷组队等功能，点击可查看详情更新日志
-    link: /nav
+    link: /q/hope
     linkText: 查看日志
   - icon: 🧰
     title: 让游戏加速变得更简单
