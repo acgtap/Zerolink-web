@@ -9,7 +9,7 @@ import { NAV_DATA } from './nav/data'
 
 <style src="./nav/index.scss"></style>
 
-# 支持的游戏
+# 💖 支持的游戏
 
 以下不完全包含所有支持游戏，理论上支持Steam上85%联机的游戏都可以使用此软件远程联机。
 
