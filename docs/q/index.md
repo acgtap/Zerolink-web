@@ -13,6 +13,7 @@ App窗口出现闪退，显示不全，可能是系统缺少了webview2runtime�
 :::
 
 ::: tip 1安装Webview2异常终止
+![安装失败截图](https://img.katomegumi.net/file/2ec992c204384ee07e746.jpg)
 
 - 此问题大概率是 Windows 系统权限的问题，先尝删除异常文件
 - 参考文献：https://zhuanlan.zhihu.com/p/588463531
@@ -30,20 +31,22 @@ App窗口出现闪退，显示不全，可能是系统缺少了webview2runtime�
 ::: tip 3无法登陆APP或者一直加载
 
 - 访问地址：https://login.applehub.cn/检查电脑是否可以访问，如果不能访问代表工具的登陆服务器被屏蔽了！
-- `关闭代理`或者换回原有网络
+- 一定要`关闭系统代理`，比如有一些魔法工具会更改系统代理，如果未关闭工具或未清除系统代理，会导致一直加载无法连接服务器。
   :::
 
 ::: tip 4进房间或者延迟为1000ms
 
-- ERROR: authentication error, MAC or IP address already in use or not released yet by supernode
 - 检查`电脑网络防火墙有没有拦截网络`，以及本地有没有使用其他网络软件或者代理
+- 打开 `增强连接` 开关试试
 - 使用加速器时，`不可以再使用其他网络软件`，如加速器VPN代理等网络软件
+- 检查网络适配器(Zerotier网卡)是否被抓包工具植入程序(如Npcap、wireshark等抓包工具)，在网卡适配器的属性里面删除多余项目
 
 :::
 
-::: tip 5-还有工具后延迟显示异常但是可以联机
+::: tip 5-还有工具后延迟显示异常但是不可以联机
 
 - 可能是延迟波动比较大或者延迟显示BUG
+- 不同游戏联机方式一般不一样，建议自行排查
 - 只要可以联机无视即可！！
   :::
 
