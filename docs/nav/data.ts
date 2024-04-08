@@ -2,7 +2,7 @@ import type { NavData } from '../.vitepress/theme/types'
 
 export const NAV_DATA: NavData[] = [
   {
-    title: '常支持的游戏',
+    title: '💞 常支持的游戏',
     items: [
       {
         icon:"https://gimg3.baidu.com/search/src=https%3A%2F%2Ftiebapic.baidu.com%2Fforum%2Fw%253D120%253Bh%253D120%2Fsign%3Dcdbd8d9aced4b31cf03c90b9b7ed4f42%2Fa044ad345982b2b757f2af1d74adcbef77099bfe.jpg%3Ftbpicau%3D2024-04-01-05_ec0d1e75d322e1425adffdca8ed39f6c&refer=http%3A%2F%2Fwww.baidu.com&app=2021&size=w240&n=0&g=0n&q=75&fmt=auto?sec=1711904400&t=96e3dc48ef72eab02b4231a5d9d3c3fc",
