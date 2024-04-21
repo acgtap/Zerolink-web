@@ -11,7 +11,7 @@ hero:
     alt: 游友加速器
   actions:
     - text: 马上下载
-      link: https://pan.xunlei.com/s/VNvwNqzOXn0JqsP6n7yH9sZzA1?pwd=mmuj
+      link: https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb#
     - text: 使用手册
       link: /q/index
       theme: alt
