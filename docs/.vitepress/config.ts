@@ -41,8 +41,8 @@ export default defineConfig({
     // socialLinks: [{ icon: 'facebook', link: 'https://github.com/acgtap' }],
 
     footer: {
-      message: 'with Katomegumi by ❤️‍🔥',
-      copyright: 'Copyright © 2023-present CnGame.wiki',
+      message: 'With 盆鱼宴 by ❤️‍🔥',
+      copyright: 'Copyright © 2024 CnGame.wiki',
     },
 
     darkModeSwitchLabel: '外观',
