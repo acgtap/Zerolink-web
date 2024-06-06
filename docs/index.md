@@ -13,7 +13,7 @@ hero:
     - text: 马上下载
       link: https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb#
     - text: 备用下载
-      link: https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.1.0_x64-setup(1).exe
+      link: /download
       theme: alt
     - text: 使用手册
       link: /q/index
