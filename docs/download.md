@@ -16,6 +16,6 @@ head:
 
 默认版（大小：12MB）：[单击下载](https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.1.1_x64-setup.exe)
 
-修复版（大小：187MB）：[单击下载](https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.1.0_x64-setup(1).exe)
+修复版（大小：187MB）：[单击下载](https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb&path=%2F%E5%8A%A0%E9%80%9F%E5%99%A8%2F%E4%BF%AE%E5%A4%8D%E5%A5%94%E6%BA%83%E7%89%88)
 
 `（如果你遇到白屏、Webview2无法安装使用修复版）`
