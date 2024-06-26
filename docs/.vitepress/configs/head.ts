@@ -7,7 +7,7 @@ export const head: HeadConfig[] = [
     'meta',
     {
       name: 'keywords',
-      content: '虚拟局域网,异地组网,免费联机工具,远程联机,局域网联机,游戏联机,MC联机'
+      content: '游友联机工具,游友加速器,虚拟局域网,异地组网,免费联机工具,远程联机,局域网联机,游戏联机,MC联机'
     }
   ],
   ['meta', { name: 'theme-color', content: '#ffffff' }],
@@ -31,7 +31,7 @@ var _hmt = _hmt || [];
   hm.src = "https://hm.baidu.com/hm.js?15ddeedf3e60ada272e4eb8d0a279569";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
-})();
+})();`
   ],
   [
     'script',
