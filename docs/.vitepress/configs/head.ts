@@ -20,15 +20,18 @@ export const head: HeadConfig[] = [
   ['link', { rel: 'mask-icon', href: '/favicon.ico', color: '#3eaf7c' }],
   ['link', { rel: 'manifest', href: '/manifest.webmanifest' }],
   ['script', { src: isDevelopment ? '' : '' }],
-  ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-L6CYJ04S3H' }],
   ['script', { src: 'https://unpkg.com/sweetalert/dist/sweetalert.min.js' }],
   [
     'script',
     {},
-    `window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'TAG_ID');`
+    `
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?15ddeedf3e60ada272e4eb8d0a279569";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
   ],
   [
     'script',
