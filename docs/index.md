@@ -63,10 +63,7 @@ features:
   justify-content: flex-end;
   align-items: end;
 }
-  .title :nth-child(1) {
-    /* pointer-events: auto; */
-    display: none;
-}
+  
   table{
     margin:auto;
   }
