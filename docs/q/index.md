@@ -4,7 +4,7 @@ description: 收录了一些游友加速器（联机工具）的一些常见问�
 ---
 # 常见问题 
 
-::: tip 启动白屏，安装出现Webview2缺失等
+::: tip ## 启动白屏，安装出现Webview2缺失等
 
 App窗口出现闪退，显示不全，或者白屏，可能是系统缺少了webview2runtime的安装，缺少webview2软件就会自动闪退，微软自带浏览器下载 `webview2`以管理权限安装即可。<font color="#660000">注意一定要以管理员运行！</font>
 
