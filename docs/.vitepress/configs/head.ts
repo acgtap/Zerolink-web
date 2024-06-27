@@ -46,7 +46,8 @@ var _hmt = _hmt || [];
   
   if (roomId) {
     const newUrl = 'yyds://room/'+roomId;
-    window.location.href = newUrl;
+    window.open(newUrl,'_blank')
+    //window.location.href = newUrl;
     // swal({
     //   title: "集合啦！",
     //   text: "你的好友邀请你加入他的房间，是否立即加入？",
