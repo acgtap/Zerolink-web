@@ -42,7 +42,7 @@ export default defineConfig({
 
     footer: {
       message: 'With 盆鱼宴 by ❤️‍🔥',
-      copyright: 'Copyright © 2024 CnGame.wiki',
+      copyright: 'Copyright © 2023-2024.06 CnGame.wiki',
     },
 
     darkModeSwitchLabel: '外观',
