@@ -1,12 +1,12 @@
 import type { DefaultTheme } from 'vitepress'
 
 export const sidebar: DefaultTheme.Config['sidebar'] = {
-  '/fe/': [
+  '/nav/': [
     {
-      text: 'JavaScript 基础知识',
+      text: '支持游戏与教程',
       collapsed: false,
       items: [
-        { text: '数据类型', link: '/fe/javascript/types' },
+        { text: '数据类型', link: '/nav' },
         { text: '引用类型的拷贝', link: '/fe/javascript/clone' },
         { text: '类型转换', link: '/fe/javascript/conversions' },
         { text: '原型和原型链', link: '/fe/javascript/prototype' },
@@ -123,9 +123,9 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
     { text: '在线工具', link: '/efficiency/online-tools' },
     { text: '书签脚本', link: '/efficiency/bookmark-scripts' }
   ],
-  '/pit/': [
+  '/q/': [
     {
-      text: '踩坑记录',
+      text: '常见问题',
       // collapsed: false,
       items: [
         { text: 'npm 踩坑记录', link: '/pit/npm' },
