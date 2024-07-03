@@ -11,9 +11,9 @@ hero:
     src: /logo.png
     alt: 游友加速器
   actions:
-    - text: 马上下载
+    - text: 网盘下载
       link: https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb#
-    - text: 备用下载
+    - text: 快速下载
       link: /download
       theme: alt
     - text: 使用手册
