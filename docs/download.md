@@ -7,6 +7,23 @@ head:
   - - meta
     - name: keywords
       content: 游友联机工具下载,游友联机工具,游友加速器,异地组网联机工具下载,异地联机工具,异地联机游戏
+layout: home
+layoutClass: 'm-home-layout'
+
+hero:
+  name: 游友加速器
+  text: 免费异地组网联机工具
+  tagline: 与朋友快速、简洁、方便的进行异地联机游戏！
+  image:
+    src: /logo.png
+    alt: 游友加速器
+  actions:
+    - text: 立即下载
+      link: /download
+    - text: 使用手册
+      link: /q/index
+      theme: alt
+      
 ---
 
 # 下载游友联机工具
