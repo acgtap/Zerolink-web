@@ -12,15 +12,15 @@ head:
 # 下载游友联机工具
 与朋友快速、简洁、方便的进行异地联机游戏！<Badge type="tip" text="Ver 1.1.4 Beta" />
 
-<br>
+<br/>
 
 ### 快速下载：
 
  快速下载链接（大小：12MB）：[单击下载](https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.1.4_x64-setup.exe)
 
 
-<br>
-<br>
+<br/>
+<br/>
 
 ### 迅雷网盘分流：
 
