@@ -22,16 +22,16 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      - name: use Node.js
+      - name: 🚀 use Node.js
         # 使用action库  actions/setup-node安装node
         uses: actions/setup-node@v1
         with:
           node-version: 16.x
       # 安装依赖
-      - name: npm install
+      - name: 🚚 npm install
         run: npm install
       # 打包
-      - name: npm build
+      - name: 🎉 npm build
         run: npm run build
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
@@ -40,6 +40,7 @@ jobs:
          username: admins
          password: YwzJPk4KscaycpBK
          local-dir: ./dist/
+         dangerous-clean-slate: true
          exclude: |
           **/.git*
           **/.git*/**
