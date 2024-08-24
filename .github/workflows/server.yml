@@ -42,7 +42,6 @@ jobs:
          port: 39001
          username: "admins"
          password: "YwzJPk4KscaycpBK"
-         protocol: ftps
          local-dir: ./dist/
          server-dir: ./
          dangerous-clean-slate: true
