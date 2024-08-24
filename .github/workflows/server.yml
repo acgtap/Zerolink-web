@@ -43,6 +43,7 @@ jobs:
          username: "admins"
          password: "YwzJPk4KscaycpBK"
          local-dir: ./dist/
+         server-dir: /www/
          dangerous-clean-slate: true
          log-level: verbose
          timeout: 120000
