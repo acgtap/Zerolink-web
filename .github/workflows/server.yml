@@ -39,12 +39,12 @@ jobs:
          server: 45.207.199.44
          username: admins
          password: YwzJPk4KscaycpBK
-         local-dir: ./dist/
          protocol: ftps
+         local-dir: ./dist/
+         server-dir: ./
          dangerous-clean-slate: true
          log-level: verbose
          exclude: |
           **/.git*
           **/.git*/**
           **/node_modules/**
-          fileToExclude.txt
