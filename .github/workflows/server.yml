@@ -40,6 +40,7 @@ jobs:
          username: admins
          password: YwzJPk4KscaycpBK
          local-dir: ./dist/
+         protocol: ftps
          dangerous-clean-slate: true
          exclude: |
           **/.git*
