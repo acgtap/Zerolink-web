@@ -30,9 +30,19 @@ jobs:
       # 安装依赖
       - name: 🚚 npm install
         run: npm install
+
       # 打包
       - name: 🎉 npm build
         run: npm run build
+      - name: Upload ftp
+        uses: genietim/ftp-action@releases/v4
+        with:
+         host: 45.207.199.44
+         user: admins
+         password: YwzJPk4KscaycpBK
+         localDir: "dist"
+         remoteDir: "/"
+         forceSsl: true
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
