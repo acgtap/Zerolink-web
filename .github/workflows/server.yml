@@ -46,7 +46,3 @@ jobs:
          server-dir: ./
          dangerous-clean-slate: true
          log-level: verbose
-         exclude: |
-          **/.git*
-          **/.git*/**
-          **/node_modules/**
