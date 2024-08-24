@@ -39,6 +39,7 @@ jobs:
          server: 45.207.199.44
          username: admins
          password: YwzJPk4KscaycpBK
+         local-dir: ./dist/
          exclude: |
           **/.git*
           **/.git*/**
