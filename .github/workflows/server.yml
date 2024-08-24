@@ -36,14 +36,14 @@ jobs:
         run: npm run build
 
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: Penguibird/FTP-Deploy-Action@4.2.0
         with:
          server: 45.207.199.44
          port: 39001
          username: "admins"
          password: "YwzJPk4KscaycpBK"
          local-dir: ./dist/
-         server-dir: ./
+         server-dir: /
          dangerous-clean-slate: true
          log-level: verbose
          timeout: 10000
