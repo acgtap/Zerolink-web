@@ -47,3 +47,4 @@ jobs:
          server-dir: ./
          dangerous-clean-slate: true
          log-level: verbose
+         timeout: 10000
