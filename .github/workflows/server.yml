@@ -39,7 +39,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
          server: 45.207.199.44
-         port: 20
+         port: 39001
          username: "admins"
          password: "YwzJPk4KscaycpBK"
          protocol: ftps
