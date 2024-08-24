@@ -35,7 +35,7 @@ jobs:
       - name: 🎉 npm build
         run: npm run build
       - name: Upload ftp
-        uses: genietim/ftp-action@releases/v4
+        uses: genietim/ftp-action
         with:
          host: 45.207.199.44
          user: admins
