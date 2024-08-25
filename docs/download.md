@@ -1,5 +1,7 @@
 ---
 title: 免费下载游友联机工具，下载异地组网联机工具，快速、简洁、方便与朋友异地联机游戏！
+sidebar: false
+aside: false
 head:
   - - meta
     - name: description
@@ -13,20 +15,20 @@ head:
 <font size="6">下载游友联机工具</font>
 </div>
 
-<img src="https://todeskcdnspeed.todesk.com/202303161406305f6fe4304d7990.png" style="margin:0 auto;width:360px;"/>
+<!-- <img src="https://todeskcdnspeed.todesk.com/202303161406305f6fe4304d7990.png" style="margin:0 auto;width:360px;"/> -->
 
 <center>与朋友快速简易的进行异地联机游戏！</center>
 
 <br/>
 <center>
-<a target="_blank" href="https://res.katomegumi.net/Beta_1.1.8_x64-setup.exe"><div style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">快速直链下载</div></a>
-<a target="_blank" href="https://www.123pan.com/s/2AZcjv-qb2D"><div style="width:300px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;margin-top:20px;">123网盘下载</div></a>
+<a target="_blank" href="https://res.katomegumi.net/Beta_1.1.8_x64-setup.exe"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">快速直链下载</div></a>
+<a target="_blank" href="https://www.123pan.com/s/2AZcjv-qb2D"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;margin-top:20px;">123网盘下载</div></a>
 
-<a target="_blank" href="https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb"><div style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">迅雷网盘下载</div></a>
+<a target="_blank" href="https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">迅雷网盘下载</div></a>
 </center>
 <br/>
 <center>
-最新版本：<Badge type="tip" text="Ver 1.1.4 Beta" />
+最新版本：<Badge type="tip" text="Ver 1.1.8 Beta" />
 </center>
 
 <br/>
@@ -43,5 +45,11 @@ head:
   
       .VPDoc .aside {
         display: none!important;
+    }
+    .downbtn:hover{
+      opacity:.8;
+    }
+    .downbtn{
+      transition: background-color .3s;
     }
 </style>
