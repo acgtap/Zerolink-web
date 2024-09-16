@@ -28,7 +28,7 @@ head:
 </center>
 <br/>
 <center>
-最新版本：<Badge type="tip" text="Ver 1.1.8 Beta" />
+最新版本：<Badge type="tip" text="Ver 1.1.9 Beta" />
 </center>
 
 <br/>
