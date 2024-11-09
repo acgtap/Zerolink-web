@@ -21,7 +21,7 @@ head:
 
 <br/>
 <center>
-<a target="_blank" href="https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.2.0_x64-setup.exe"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">快速直链下载</div></a>
+<a target="_blank" href="https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.2.2_x64-setup.exe"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">快速直链下载</div></a>
 <a target="_blank" href="https://www.123pan.com/s/2AZcjv-qb2D"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;margin-top:20px;">123网盘下载</div></a>
 
 <a target="_blank" href="https://pan.xunlei.com/s/VNtgAtEK0JcBLu9ZVH5S6JHQA1?pwd=2erb"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">迅雷网盘下载</div></a>
