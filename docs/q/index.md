@@ -33,6 +33,15 @@ App窗口出现闪退，显示不全，或者白屏，可能是系统缺少了we
 
 其他：考虑使用`游友加速器_修复版本`（187MB）版本，该版本集成固定webview2版本。
 
+## 安装Webview2异常终止
+![安装失败截图](https://img.katomegumi.net/file/2ec992c204384ee07e746.jpg)
+
+- 此问题大概率是 Windows 系统权限的问题，先尝删除异常文件
+- 参考文献：https://zhuanlan.zhihu.com/p/588463531
+- 使用方法：强行删除C:\Program Files (x86)\Microsoft 该文件夹，如果删除不掉请进入PE删除
+
+其他：考虑使用`游友加速器_修复版本`（187MB）版本，该版本集成固定webview2版本。
+
 ## 提示游戏列表加载失败（或者时长需要重新登录才能同步）
 
 ![无法加载游戏列表](https://tc.vlogidc.cn/img/2025/01/05/677a5bea004d4.jpg)
@@ -48,15 +57,6 @@ App窗口出现闪退，显示不全，或者白屏，可能是系统缺少了we
 ![缺少镜像](https://tc.vlogidc.cn/img/2025/01/05/677a58647b0ff.png)
 
 该报错由系统的防火墙删除了本工具的一个小插件，并不影响使用（如需要恢复，需要关闭电脑防火墙，重新安装本app）如何关闭电脑防火墙请自行网络查找
-
-## 安装Webview2异常终止
-![安装失败截图](https://img.katomegumi.net/file/2ec992c204384ee07e746.jpg)
-
-- 此问题大概率是 Windows 系统权限的问题，先尝删除异常文件
-- 参考文献：https://zhuanlan.zhihu.com/p/588463531
-- 使用方法：强行删除C:\Program Files (x86)\Microsoft 该文件夹，如果删除不掉请进入PE删除
-
-其他：考虑使用`游友加速器_修复版本`（187MB）版本，该版本集成固定webview2版本。
 
 ## 无法加入房间卡加载房间又或者加入房间无反应
 ![连接超时](https://img.katomegumi.net/file/ff311bf118f3849a0ca1a.jpg)
