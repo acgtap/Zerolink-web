@@ -119,6 +119,33 @@ Windows 下的 ze 数据传输（直连或中转）均通过 UDP 传输，在部
 
 一些游戏也有网卡绑定，你可以`禁用多余网卡`再试试，在游友设置里面提供了快速网卡管理，将多余不是网络出口网卡关闭。
 
+## NAT网络类型说明
+
+当联机的双方NAT类型有一方为Cone NAT时（以下前三种）才 有概率 建立P2P连接，如果双方都是Symmetric NAT，必然无法成功建立P2P连接，`简历P2P链接后能有效降低联机延迟`。
+
+几种常见的NAT类型：
+
+1.Full Cone
+
+2.Restricted Cone
+
+3.Port Restricted Cone
+
+4.Symmetric NAT
+
+::: tip 论坛大佬总结的
+
+1.双方中只要有一方是Full Cone，可以直连
+
+2.双方都是Restricted Cone或Port Restricted Cone，这种情况可以打洞，通过N2N服务器握手以后，双方的数据不再经过服务端
+
+3.一方为Restricted Cone，另一方为Symmetric NAT，可以打洞，通过N2N服务器握手以后，双方的数据不再经过服务端
+
+4.一方为端口Port Restricted Cone，另一方为Symmetric NAT，这种情况无法打洞，数据要走N2N服务器中转
+
+5.双方都为Symmetric NAT，这种情况也是无法打洞的，数据要走N2N服务器中转
+:::
+
 ## 我找不到问题？请求远程协助！
 
 可以寻求管理员付费远程解决问题，请先点击右上角加入官方QQ群，联系群主或群管理员。
