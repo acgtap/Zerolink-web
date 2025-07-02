@@ -33,10 +33,11 @@ head:
 <br/>
 <br/>
 
-::: tip 白屏修复版 
-- 修复版（大小：187MB）：[单击下载](https://www.123pan.com/s/2AZcjv-qb2D) 
+::: tip 白屏修复器 
+无法安装软件？启动白屏？Webview 出现问题？无法找到Webview2？
+使用 webview2 修复工具修复，点击“删除并重装”按钮等待下载运行完毕后即可。
 
-`如果你在网吧推荐使用修复版，同时如果你遇到白屏、Webview2无法安装也请使用修复版）`
+[https://wwfj.lanzoul.com/b0sxlfdri](https://wwfj.lanzoul.com/b0sxlfdri) 密码:biar
 :::
 
 
