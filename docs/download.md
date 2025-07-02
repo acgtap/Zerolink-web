@@ -35,6 +35,7 @@ head:
 
 ::: tip 白屏修复器 
 无法安装软件？启动白屏？Webview 出现问题？无法找到Webview2？
+
 使用 webview2 修复工具修复，点击“删除并重装”按钮等待下载运行完毕后即可。
 
 [https://wwfj.lanzoul.com/b0sxlfdri](https://wwfj.lanzoul.com/b0sxlfdri) 密码:biar
