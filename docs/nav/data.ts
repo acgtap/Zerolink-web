@@ -43,7 +43,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png',
         title: 'Minecraft',
         desc: '6分钟学会最简单-我的世界- Minecraft联机教程！！',
-        link: 'https://www.minecraft.net/zh-hans'
+        link: 'https://www.bilibili.com/video/BV1uM4m197TE/?spm_id_from=333.1387.search.video_card.click'
       },{
         icon: 'https://gimg3.baidu.com/search/src=https%3A%2F%2Ftiebapic.baidu.com%2Fforum%2Fw%253D120%253Bh%253D120%2Fsign%3D791155d29cf9d72a1764141fe4114009%2Fcdbf6c81800a19d8df63b5e876fa828ba71e46fe.jpg%3Ftbpicau%3D2024-04-01-05_8787edf364ab7f37bfe4c7644139bc18&refer=http%3A%2F%2Fwww.baidu.com&app=2021&size=w240&n=0&g=0n&q=75&fmt=auto?sec=1711904400&t=745c267d3642bc737b75893ce341b8dc',
         title: '文明6',
