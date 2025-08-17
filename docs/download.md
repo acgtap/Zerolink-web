@@ -21,13 +21,14 @@ head:
 
 <br/>
 <center>
-<a target="_blank" href="https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.3.2_x64-setup.exe"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">快速直链下载</div></a>
-<a target="_blank" href="https://wwfj.lanzoul.com/b0241sipe"><div class="downbtn" style="width:240px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;margin-top:20px;">兰奏网盘下载（密码:6rn0）</div></a>
+  <a target="_blank" href="https://wwfj.lanzoul.com/b0241sipe"><div class="downbtn" style="width:240px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;">兰奏网盘下载（密码:6rn0）</div></a>
+<a target="_blank" href="https://res.katomegumi.net/%E6%B8%B8%E5%8F%8B%E5%8A%A0%E9%80%9F%E5%99%A8Beta_1.3.2_x64-setup.exe"><div class="downbtn" style="width:140px;height:40px;border-radius:5px;background:#409eff;line-height:40px;text-align:center;color:white;margin-top:20px;">快速直链下载</div></a>
+
  
 </center>
 <br/>
 <center>
-最新版本：<Badge type="tip" text="Ver 1.3.2 Beta" />
+最新版本：<Badge type="tip" text="Ver 1.3.3 Beta" />
 </center>
 
 <br/>
